@@ -8,11 +8,7 @@
       <v-card>
         <v-card-title class="headline">test</v-card-title>
         <v-card-text>
-          <p>
-            Vuetify is a progressive Material Design component framework for
-            Vue.js. It was designed to empower developers to create amazing
-            applications.
-          </p>
+          <p>git name test 중입니다.</p>
           <p>
             For more information on Vuetify, check out the
             <a
